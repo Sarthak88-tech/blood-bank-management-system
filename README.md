@@ -33,9 +33,7 @@ Client side:
 • For security Antivirus is recommended.
 .
 • Web browser: Internet explorer or any compatible web browser.
- 
-# Project link:-
-https://donationdesk.000webhostapp.com/
+
 
 # Future Scope:-
 
